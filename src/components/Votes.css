@@ -1,0 +1,22 @@
+.Votes .Graph {
+  height: 30px;
+  border-radius: 5px;
+  max-width: 300px;
+  margin: 10px 0;
+}
+
+.Votes .chocolate {
+  background-color: #4f2c2c;
+}
+
+.Votes .vanilla {
+  background-color: bisque;
+}
+
+.Votes .strawberry {
+  background-color: pink;
+}
+
+.hide {
+  display: none;
+}

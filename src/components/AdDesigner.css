@@ -1,0 +1,21 @@
+.AdDesigner .ad {
+  border: 1px solid #222;
+  padding: 20px;
+  width: fit-content;
+  max-width: 100vh;
+  text-align: center;
+}
+
+.AdDesigner .Flavor {
+  font-family: "Caveat", cursive;
+}
+
+.AdDesigner .ad.dark-mode {
+  background-color: #000000;
+  color: white;
+}
+
+.AdDesigner .disabled {
+  background-color: gray;
+  /* pointer-events: none; */
+}
